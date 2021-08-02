@@ -4,7 +4,7 @@ A simple Telegram bot to send the shrug (¯\\_(ツ)_/¯) emote to any chat – a
 
 ## Usage
 
-Send `@New_Shrug_Bot [text]` in any Telegram chat, and the shrug emote will be appended to whatever text you write. (You don't have to write anything, you can also just send a shrug by itself.)
+Send `@ShrugRobot [text]` in any Telegram chat, and the shrug emote will be appended to whatever text you write. (You don't have to write anything, you can also just send a shrug by itself.)
 
 ## Installation
 
